@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Fonts -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Aldrich&family=BBH+Sans+Bogle&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Michroma&family=Orbitron:wght@400..900&family=Rubik+Vinyl&family=Space+Mono&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+     <link rel="stylesheet" href="style.css">
+
+    <!-- JS -->
+    <script defer src="script.js"></script>
+
+    <title>Ecommerce Store</title>
+</head>
+<body>
+    <nav>
+        <h3 class="brand"><a href="index.html">BIKELAB</a></h3>
+        <ul>
+            <li class="nav-sections"><a href="index.html">Home</a></li>
+            <li class="nav-sections"><a href="product.html">Products</a></li>
+            <li class="nav-sections"><a href="contact.html">Contact Us</a></li>
+        </ul>
+        <button id = "hamburger-nav" class="hamburger">&#9776;</button>
+    </nav>
+    
+<section class="contact-container">
+    <h2>Get In Touch</h2>
+        <div class="contact-wrapper">
+            
+            <!-- Form -->
+            <form class="contact-form" action="/index.html" method="post">
+
+                <label for="name">Name</label>
+                <input id="name" type="text" name="name" class="contact-input" placeholder="Enter your name" required>
+
+                <label for="email">Email</label>
+                <input id="email" type="email" name="email" class="contact-input" placeholder="Enter your email" required>
+        
+                <label for="comments">Message</label>
+                <textarea id="comments" name="message" class="contact-input" rows="5" maxlength="300" placeholder="Write your message..."></textarea>
+
+                <button type="submit" class="submit-btn">Send message</button>
+            </form>
+        </div>
+</section>
+        
+    <footer>
+        <div class="footer-left">
+            <h5>Connect</h5>
+            <a href="https://www.linkedin.com/in/marilyn-castro-alonso-6873b8308" target="_blank">
+                <img src="./Images/linkedin.png" alt="LinkedIn" width="30">
+            </a>
+        </div>
+        <div class="footer-right">
+            <h5>Pages</h5>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html">Products</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Alight Disc 3",
+            "price": 650.00,
+            "description": "The Alight Disc features an easy on and off frame design, touchpoints to maximize comfort and is available in Alight Disc City models equipped with fenders, a rack and a kickstand making the ride on the bike path or commute to work more enjoyable.",
+            "image": "Images/LivAlight.jpg"
+        },
+        {
+            "id": 2,
+            "name": "S-Works Tarmac SL8",
+            "price": 13499.99,
+            "description": "The 2026 Specialized S-Works Tarmac SL8 is the fastest race bike Specialized has ever created—an uncompromising blend of aerodynamic refinement, ultralight construction, and championship-winning ride quality.",
+            "image": "Images/Sworks.jpg"
+        }, 
+        {
+            "id": 3,
+            "name": "Giant Advanced SL 0",
+            "price": 13000.00,
+            "description": "The Advanced SL-grade is specifically engineered for endurance road riding, delivering a smooth and efficient ride quality that minimizes fatigue on long rides.",
+            "image": "Images/GiantDefy.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Liv Langma Advance Pro",
+            "price": 6800.00,
+            "description": "The Langma Advanced Pro was designed to climb mountains and leaderboards. The re-engineered frameset and components are seamlessly integrated for effortless ascents and fearless descents, inspiring you to push limits all day long.",
+            "image": "Images/LivLangma.jpg",
+            "bestSeller": true 
+        }, 
+        {
+            "id": 5,
+            "name": "Look 795 Blade RS",
+            "price": 10990.00,
+            "description": "Impressive performance and versatility for success on any course: flat, hilly or mountainous. Aerodynamically-optimized frame and components, making for very, very fast riding.",
+            "image": "Images/Look.jpg",
+            "bestSeller": true
+        }, 
+        {
+            "id": 6,
+            "name": "Aventon Level 3 Ebike",
+            "price": 1899.00,
+            "description": "Take your commutes to the next LEVEL. The all new Level 3 comes fully equipped with everything you need to trade your daily drives for daily rides.",
+            "image": "Images/AventonL3.jpg"
+        }, 
+        {
+            "id": 7,
+            "name": "Aventon Soltera 2.5 Ebike",
+            "price": 1100.00,
+            "description": "Designed for performance and versatility, the exceptional handling and upgraded componentry puts you in command of every ride. Now with hydraulic brakes and faster rolling tires, the Soltera 2.5 is sure to elevate every ride.",
+            "image": "Images/AventonSoltera.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Canyon Aeroad",
+            "price": 10499.00,
+            "description": "With wind tunnel numbers eclipsing anything else raced in the WorldTour, the Aeroad CFR is the fastest bike in the pro peloton today.",
+            "image": "Images/Canyon.jpg"
+        }, 
+        {
+            "id": 9,
+            "name": "Cervelo Caledonia 5",
+            "price": 12500.00,
+            "description": "Built to handle long-distance, high-speed racing—with fit and handling geared toward comfort, but without sacrificing the Cervelo race bike feeling.",
+            "image": "Images/Cervelo.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Scott Addict RC Pro",
+            "price": 8999.99,
+            "description": "Engineered to defy gravity and elevate your performance, the Addict RC is our lightest production race bike ever. Whether you're attacking steep climbs or sprinting for the finish line, every aspect of this bike was crafted to leave everyone else in the dust.",
+            "image": "Images/Scott.jpg",
+            "bestSeller": true
+        },
+        {
+            "id": 11,
+            "name": "Parlee Quray",
+            "price": 13490,
+            "description": "The Parlee Ouray is the perfect platform for exploring new roads and seeking new adventures… or just crushing climbs and capturing QOMs/KOMs.",
+            "image": "Images/Parlee.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Cannondale Trail 1",
+            "price": 999,
+            "description": "The Cannondale Trail is your first-class upgrade to next-level mountain biking—engineered for fun by a brand trusted by Champions.",
+            "image": "Images/Cannon.jpg",
+            "bestSeller": true
+        }
+    ]
+
+}
